@@ -23,7 +23,4 @@ Essas tecnologias foram utilizadas para construir uma interface leve, funcional,
 
 🚧--- OBSERVAÇÃO!: ---🚧
 
-- A Landing Page não está 100% completa!, por isso aguarde para mais resutlados no desenvolvimento 😉 
-
-📍 **Localização:** Geisel – João Pessoa / PB  
-🙏 **Igreja Batista Atos**
+- A Landing Page não está 100% completa!, por isso aguarde para mais resutlados no desenvolvimento 😉
