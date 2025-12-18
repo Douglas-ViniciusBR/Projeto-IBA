@@ -21,6 +21,6 @@ Tudo isso com foco em facilitar o **primeiro contato** das pessoas com a igreja.
 
 Essas tecnologias foram utilizadas para construir uma interface leve, funcional, acessível e dirita ao ponto!
 
-🚧--- OBSERVAÇÃO!: ---🚧
+🚧--- OBSERVAÇÃO! ---🚧
 
-- A Landing Page não está 100% completa!, por isso aguarde para mais resutlados no desenvolvimento 😉
+- A Landing Page não está 100% completa!, por isso aguarde para mais resultados no desenvolvimento 😉
