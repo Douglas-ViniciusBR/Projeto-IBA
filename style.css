@@ -1,0 +1,83 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-transform: capitalize;
+    transition: 0.2s linear;
+}
+
+:root {
+    --border-color: 1px solid orange;
+}
+
+/* Cabeçario */
+
+header img {
+    width: 110px;
+    height: 110px;
+    padding-left: 40px;
+}
+
+#cabecario {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    height: 100px;
+    gap: 30px;
+    border-bottom: var(--border-color);
+    background-color: #fff;
+    border-bottom-left-radius: 24px;    
+    border-bottom-right-radius: 24px;    
+}
+
+a{
+    text-decoration: none;
+    font-size: 1.4em;
+    color: orange;
+    padding: 0px 5px;
+    padding-right: 25px;
+}
+
+ a:hover {
+    font-size: 1.6em;
+    padding: 10px;
+ }
+
+ /* Fundo */
+
+ #fundo img {
+    padding-top: 80px;
+    width: 100%;
+    height: 100%;
+}
+
+/* Seçôes */
+
+h1.topicos {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 2.5em;
+    color: orange;
+    display: flex;
+    justify-content: center;
+}
+
+.descricao {
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+    margin: 0px 40px 0px 40px;
+}
+
+#rodape {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: orange;
+    color: #fff;
+    
+}
