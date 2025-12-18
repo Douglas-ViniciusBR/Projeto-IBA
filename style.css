@@ -5,16 +5,23 @@
     transition: 0.2s linear;
 }
 
+body {
+    background: var(--color-pd2);
+     font-family: "Roboto", sans-serif;
+}
+
 :root {
-    --border-color: 1px solid orange;
+    --color-pd1: #FF7A00;
+    --color-pd2: #fff;
 }
 
 /* Cabeçario */
 
 header img {
-    width: 110px;
-    height: 110px;
-    padding-left: 40px;
+    width: 120px;
+    height: 120px;
+    padding-top: 10px;
+    padding-left: 30px;
 }
 
 #cabecario {
@@ -27,8 +34,8 @@ header img {
     margin: 0px;
     height: 100px;
     gap: 30px;
-    border-bottom: var(--border-color);
-    background-color: #fff;
+    border-bottom: 1px solid var(--color-pd1);
+    background-color: var(--color-pd2);
     border-bottom-left-radius: 24px;    
     border-bottom-right-radius: 24px;    
 }
@@ -36,12 +43,13 @@ header img {
 a{
     text-decoration: none;
     font-size: 1.4em;
-    color: orange;
+    color: var(--color-pd1);
     padding: 0px 5px;
     padding-right: 25px;
 }
 
  a:hover {
+    color: #ffab0f;
     font-size: 1.6em;
     padding: 10px;
  }
@@ -60,7 +68,7 @@ h1.topicos {
     padding-top: 20px;
     padding-bottom: 20px;
     font-size: 2.5em;
-    color: orange;
+    color: var(--color-pd1);
     display: flex;
     justify-content: center;
 }
@@ -77,7 +85,7 @@ h1.topicos {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: orange;
-    color: #fff;
+    background-color: var(--color-pd1);
+    color: var(--color-pd2);
     
 }
