@@ -8,19 +8,17 @@ function App() {
           <section id="cabecario">
             <img src="/public/logo-iba.png" alt="logo" />
             <nav class="menu">
-              <a href="#sobre-nos">
-                <ion-icon name="person-outline"></ion-icon> Sobre Nós
+              <a href="">
+                <ion-icon name="person-outline"></ion-icon> Home
               </a>
-              <a href="#programacoes">
-                <ion-icon name="calendar-outline"></ion-icon> Programações
+              <a href="">
+                <ion-icon name="calendar-outline"></ion-icon> Ministérios
               </a>
-              <a href="#contatos">
+              <a href="">
                 <ion-icon name="call-outline"></ion-icon> Contatos
               </a>
-              <a href="#localizacao">
-                <ion-icon name="location-outline"></ion-icon> Localização
-              </a>
             </nav>
+            <img id="user" src="/public/icon-users.png" alt="Usuário" />
           </section>
         </header>
 
@@ -29,9 +27,7 @@ function App() {
             <img src="public/fundo.webp" alt="" />
           </div>
           <section>
-            <h1 id="sobre-nos" class="topicos">
-              Sobre Nós
-            </h1>
+            <h1 class="topicos">Sobre Nós</h1>
             <p class="descricao">
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text
@@ -44,9 +40,7 @@ function App() {
               publishing software like Aldus PageMaker including versions of
               Lorem Ipsum.
             </p>
-            <h1 id="programacoes" class="topicos">
-              Programações
-            </h1>
+            <h1 class="topicos">Programações</h1>
             <p class="descricao">
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text
@@ -60,13 +54,9 @@ function App() {
               Lorem Ipsum.
             </p>
           </section>
-          <h1 class="topicos">Contatos</h1>
-          <p id="contatos" class="descricao">
-            conteudo
-          </p>
-          <h1 id="localizacao" class="topicos">
-            Localização
-          </h1>
+          <h1 class="topicos">Princípios</h1>
+          <p class="descricao">conteudo</p>
+          <h1 class="topicos">Localização</h1>
           <p class="descricao">conteudo</p>
         </main>
 
