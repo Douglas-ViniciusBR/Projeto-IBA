@@ -15,8 +15,9 @@ A página foi projetada para ser:
 Tudo isso com foco em facilitar o **primeiro contato** das pessoas com a igreja.
 
 🛠️ Tecnologias Utilizadas
-- HTML5  
-- CSS3  
+- React
+- HTML  
+- CSS  
 - JavaScript  
 
 Essas tecnologias foram utilizadas para construir uma interface leve, funcional, acessível e dirita ao ponto!
