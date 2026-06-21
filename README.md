@@ -24,4 +24,4 @@ Essas tecnologias foram utilizadas para construir uma interface leve, funcional,
 
 🚧--- OBSERVAÇÃO! ---🚧
 
-- A Landing Page não está 100% completa!, por isso aguarde para mais resultados no desenvolvimento 😉
+- A Landing Page não está 100% completa! Por isso aguarde para mais resultados no desenvolvimento 😉
